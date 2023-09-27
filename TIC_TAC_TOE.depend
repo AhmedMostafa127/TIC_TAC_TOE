@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695762097 source:d:\ahmed\embbeded systems\code_c\tic_tac_toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1695761500 source:d:\ahmed\embbeded systems\code_c\tic_tac_toe\helper_funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Helper_Funcs.h"
+
+1695761643 d:\ahmed\embbeded systems\code_c\tic_tac_toe\helper_funcs.h
+
